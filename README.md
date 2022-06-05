@@ -2,7 +2,7 @@
 
 This is a first repo. There are readme file and index.html file.
 
-![](https://freeimage.host/i/hd906g)
+![line](https://freeimage.host/i/hd906g.png)
 
 # Installation
 
