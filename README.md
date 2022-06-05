@@ -2,8 +2,7 @@
 
 This is a first repo. There are readme file and index.html file.
 
-
-![](https://www.hizliresim.com/jc6w1ru)
+![line](https://www.hizliresim.com/jc6w1ru)
 
 # Installation
 
