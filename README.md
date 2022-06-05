@@ -2,7 +2,7 @@
 
 This is a first repo. There are readme file and index.html file.
 
-![line](https://www.hizliresim.com/jc6w1ru)
+![line](https://ibb.co/bsW865c)
 
 # Installation
 
