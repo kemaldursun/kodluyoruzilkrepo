@@ -2,11 +2,12 @@
 
 This is a first repo. There are readme file and index.html file.
 
-![line](https://freeimage.host/i/hd906g.png)
+![image](https://user-images.githubusercontent.com/47081324/172057396-82dcd979-1c39-439e-b0d1-159eb73c2afb.PNG)
 
 # Installation
 
 First clone project. 
+
 
 `git clone https://github.com/kemaldursun/kodluyoruzilkrepo.git`
 
