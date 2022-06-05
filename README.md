@@ -15,7 +15,7 @@ Open in VSC after clone
 
 Linux için:
 
-`cd kodluyoruzilkrepo`
+`cd kodluyoruzilkrepo`  
 `code .`
 
 # Contributing
@@ -25,6 +25,5 @@ Pull requested are accepted. Please open a discussion for big chances.
 
 # License
 
-MIT
+<p><ins>MIT</ins></p>
 
-<u> this is underlined </u> 
