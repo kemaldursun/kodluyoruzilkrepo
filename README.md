@@ -2,7 +2,7 @@
 
 This is a first repo. There are readme file and index.html file.
 
-![line](https://ibb.co/bsW865c)
+![](https://ibb.co/bsW865c)
 
 # Installation
 
