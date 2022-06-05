@@ -3,7 +3,7 @@
 This is a first repo. There are readme file and index.html file.
 
 
-![]([./image.png](https://www.hizliresim.com/jc6w1ru))
+![](https://www.hizliresim.com/jc6w1ru)
 
 # Installation
 
