@@ -2,6 +2,9 @@
 
 This is a first repo. There are readme file and index.html file.
 
+
+![alt text](https://www.hizliresim.com/jc6w1ru)
+
 # Installation
 
 First clone project. 
